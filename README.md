@@ -1,0 +1,1 @@
+This is Camille's first git project!
